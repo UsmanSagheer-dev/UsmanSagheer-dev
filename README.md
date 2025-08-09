@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Usman Sagheer and I'm a Full Stack Developer  from Pakistan</p>
-<img src="[https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966](https://www.bing.com/images/create/a-futuristic-digital-workspace-with-a-laptop-showi/1-68979bf7d9324a29be8964355dcd8c7d?id=ScdeS8hc103cqrBJOsFLQQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.axYWGE.gRCNhdrHEFxj6&mdl=0&skey=N4e_98X1Eap7oGdsxm9WOd6pLAhnSpKf22MQjolGuUA&FORM=GCRIDP&ajaxhist=0&ajaxserp=0)" alt="Animated GIF" />
+<img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-49fc-61f9-b0d9-7ffb281f6a76/raw?se=2025-08-09T20%3A18%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=3b22b701-d20c-5a11-b6b0-c791ff0c7dfd&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-09T19%3A17%3A09Z&ske=2025-08-10T19%3A17%3A09Z&sks=b&skv=2024-08-04&sig=Ta6NW%2B/A2peoKee%2BQB9vNSmZ2TN0Jdr8UlOCMuboIpE%3D" alt="Animated GIF" width="100%" />
 
 
 ###
@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently  working in Techloset Solutions<br>🎯 Full Stack Developer<br>🎲 Development</p>
+<p align="left">✨ Hi! I'm Usman, passionate about technology, coding, and building projects that solve real-world problems.  
+I love exploring **AI, Machine Learning, and Web Development**.</p>
 
 ###
 
