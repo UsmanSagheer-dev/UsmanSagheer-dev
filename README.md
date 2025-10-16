@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Usman Sagheer and I'm a Full Stack Developer  from Pakistan</p>
-<img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-49fc-61f9-b0d9-7ffb281f6a76/raw?se=2025-08-09T20%3A18%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=3b22b701-d20c-5a11-b6b0-c791ff0c7dfd&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-09T19%3A17%3A09Z&ske=2025-08-10T19%3A17%3A09Z&sks=b&skv=2024-08-04&sig=Ta6NW%2B/A2peoKee%2BQB9vNSmZ2TN0Jdr8UlOCMuboIpE%3D" alt="Animated GIF" width="100%" />
+<img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" alt="Animated GIF" width="100%" />
 
 
 ###
