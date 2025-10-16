@@ -3,7 +3,8 @@
 ###
 
 <p align="left">My name is Usman Sagheer and I'm a Full Stack Developer  from Pakistan</p>
-<img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" alt="Animated GIF" width="100%" />
+<img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" alt="Usman Sagheer" width="100%" style="border-radius: 10px; height:1200px" />
+
 
 
 ###
@@ -12,8 +13,8 @@
 
 ###
 
-<p align="left">✨ Hi! I'm Usman, passionate about technology, coding, and building projects that solve real-world problems.  
-I love exploring **AI, Machine Learning, and Web Development**.</p>
+<p align="left">✨ Hi! I'm Usman, a passionate Full Stack Web Developer who loves building modern, scalable, and user-friendly web applications.
+I enjoy working with technologies like React.js, Next.js, Node.js, TypeScript, and Tailwind CSS, turning ideas into clean, functional, and beautiful digital experiences..</p>
 
 ###
 
