@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Usman Sagheer and I'm a Full Stack Developer  from Pakistan</p>
-<img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" alt="Usman Sagheer" width="100%" style="border-radius: 10px; height:1200px" />
+<img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" alt="Usman Sagheer" width="100%" style="border-radius: 10px; height:1200px object:cover" />
 
 
 
