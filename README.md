@@ -41,7 +41,7 @@ I code because I love **creating things that live on the internet** ✨
 
 ### 📌 Featured Screenshot of Work
 <p align="center">
-  <img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" width="80%" style="border-radius:12px;" />
+  <img src="https://ik.imagekit.io/bfjfwmysp/usman.jpg?updatedAt=1760607248921" width="60%" style="border-radius:12px;" />
 </p>
 
 ---
